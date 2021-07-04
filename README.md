@@ -33,3 +33,6 @@ You can click the Preview link to take a look at your changes.
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=110min&theme=dark)](https://github.com/110min/github-readme-stats)
