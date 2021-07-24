@@ -35,4 +35,4 @@ You can click the Preview link to take a look at your changes.
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=110min&theme=dark)](https://github.com/110min/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=110min&theme=dark)](https://github.com/110min/github-readme-stats) -->
