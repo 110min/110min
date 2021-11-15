@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF0000)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=laravel&logoColor=FF0000)
 
 
 **Some languages I have used**
